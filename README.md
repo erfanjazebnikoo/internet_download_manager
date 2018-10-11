@@ -10,6 +10,9 @@ This is a simple project for managing downloads in android smart phones. [FileDo
 - Limit download speed
 - Schedule downloads
 
-### Screenshots
+### Screenshots:
 
-
+[![Solid](http://www.erfanjazebnikoo.com/downloads/idm1_lq.jpg)](http://www.erfanjazebnikoo.com/downloads/idm1.jpg)
+[![Solid](http://www.erfanjazebnikoo.com/downloads/idm3_lq.jpg)](http://www.erfanjazebnikoo.com/downloads/idm3.jpg)
+[![Solid](http://www.erfanjazebnikoo.com/downloads/idm4_lq.jpg)](http://www.erfanjazebnikoo.com/downloads/idm4.jpg)
+[![Solid](http://www.erfanjazebnikoo.com/downloads/idm5_lq.jpg)](http://www.erfanjazebnikoo.com/downloads/idm5.jpg)
