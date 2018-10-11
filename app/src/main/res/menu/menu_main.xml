@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--<item android:id="@+id/other_demo"-->
+        <!--android:title="Other Demo" />-->
+    <item android:id="@+id/schedule"
+        android:title="Schedule" />
+    <item android:id="@+id/speedLimit"
+        android:title="Speed Limits" />
+
+</menu>

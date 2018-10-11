@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <preference
+        android:key="sample"
+        android:summary="can open other activity"
+        android:title="click here"></preference>
+
+    <edittextpreference
+        android:key="Name"
+        android:summary="Add user Name."
+        android:title="Your Name"></edittextpreference>
+
+</PreferenceScreen>
