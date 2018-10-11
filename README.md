@@ -9,3 +9,10 @@ This is a simple project for managing downloads in android smart phones. [FileDo
 - Check the link before starting the download: Get the file size and validity of download link
 - Limit download speed
 - Schedule downloads
+
+### SCreenshots
+[![Solid](http://erfanjazebnikoo.com/downloads/idm1_lq.jpg)](http://erfanjazebnikoo.com/downloads/idm1.jpg)
+[![Solid](http://erfanjazebnikoo.com/downloads/idm2_lq.jpg)](http://erfanjazebnikoo.com/downloads/idm2.jpg)
+[![Solid](http://erfanjazebnikoo.com/downloads/idm3_lq.jpg)](http://erfanjazebnikoo.com/downloads/idm3.jpg)
+[![Solid](http://erfanjazebnikoo.com/downloads/idm4_lq.jpg)](http://erfanjazebnikoo.com/downloads/idm4.jpg)
+[![Solid](http://erfanjazebnikoo.com/downloads/idm5_lq.jpg)](http://erfanjazebnikoo.com/downloads/idm5.jpg)
