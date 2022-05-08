@@ -12,7 +12,7 @@ This is a simple project for managing downloads in android smart phones. [FileDo
 
 ### Screenshots:
 
-[![Solid](http://www.erfanjazebnikoo.com/downloads/idm1_lq.jpg)](http://www.erfanjazebnikoo.com/downloads/idm1.jpg)
-[![Solid](http://www.erfanjazebnikoo.com/downloads/idm3_lq.jpg)](http://www.erfanjazebnikoo.com/downloads/idm3.jpg)
-[![Solid](http://www.erfanjazebnikoo.com/downloads/idm4_lq.jpg)](http://www.erfanjazebnikoo.com/downloads/idm4.jpg)
-[![Solid](http://www.erfanjazebnikoo.com/downloads/idm5_lq.jpg)](http://www.erfanjazebnikoo.com/downloads/idm5.jpg)
+[![Solid](http://www.erfanjn.com/downloads/idm1_lq.jpg)](http://www.erfanjn.com/downloads/idm1.jpg)
+[![Solid](http://www.erfanjn.com/downloads/idm3_lq.jpg)](http://www.erfanjn.com/downloads/idm3.jpg)
+[![Solid](http://www.erfanjn.com/downloads/idm4_lq.jpg)](http://www.erfanjn.com/downloads/idm4.jpg)
+[![Solid](http://www.erfanjn.com/downloads/idm5_lq.jpg)](http://www.erfanjn.com/downloads/idm5.jpg)
